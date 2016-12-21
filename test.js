@@ -1,3 +1,4 @@
 var obj = {
-  'v':3
+  'v':3,
+  'name': 'add new key --name'
 }
